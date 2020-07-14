@@ -1,0 +1,17 @@
+{
+    "name": "com.ezphera.changelogs.editor",
+    "references": [
+        "GUID:9c39f33c26728a14d9bf2e01784ded61"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

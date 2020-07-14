@@ -1,0 +1,17 @@
+{
+  "name": "com.ezphera.changelogs",
+  "displayName": "Custom Changelogs for packages",
+  "version": "1.0.1",
+  "unity": "2018.1",
+  "author": {
+    "name": "Oscar Gutierrez",
+    "email": "produccion@ezphera.net",
+    "url": "https://ezpheratech.com"
+  },
+  "description": "Add custom changelog to your custom packages.",
+  "repository": {},
+  "type": "tool",
+  "dependencies": {
+    
+  }
+}
